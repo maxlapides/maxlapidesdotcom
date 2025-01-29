@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "8NAD6T332W.com.maxlapides.amazonjobs"
+        ],
+        "appID": "8NAD6T332W.com.maxlapides.amazonjobs",
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL"
+          }
+        ],
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "8NAD6T332W.com.maxlapides.amazonjobs"
+    ]
+  }
+}
